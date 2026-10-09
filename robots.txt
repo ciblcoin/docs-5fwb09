@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-y23xhu.shadowdiary.com/sitemap.xml
